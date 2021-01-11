@@ -1,0 +1,11 @@
+Writing issues(tickets, tasks)
+    -User Stories
+        -as a person i want to do something so that reason
+        -software should be designed based on what the users of the software want
+        -stories are not the same as implementation details
+
+    -Implementation Details
+        -how to fulfill a user story
+        -should always serve a user story
+        -typically you will write a ticket for each implementation detail (not for each user story)
+        

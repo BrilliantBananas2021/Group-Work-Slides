@@ -1,0 +1,16 @@
+-Aim for uninterrupted focus
+-do not specialize (split on feature, not tech!)
+-rotate: pair with each member of your team
+-small, frequent PRs
+
+
+DON'T WORK DIRECTLY ON MASTER!
+Always work from a "feature" branch.
+    - 'git checkout -b my-feature'
+
+Pull requests
+    -push your branch up to the remote
+        -'git push origin my-feature'
+    -go to repo on github- you will be propmted to make a pull requests
+    -another member of your team should review your pull request
+    -if changes are requested, make them locally and then push again

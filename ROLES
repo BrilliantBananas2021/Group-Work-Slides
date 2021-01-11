@@ -1,0 +1,25 @@
+
+Taskmaster
+-Keep track of todos/issues
+    -bite size
+    -in project management tool (github projects)
+-Assign pairs/tasks each day
+-Facilitate communication and minimize double work
+    -make sure everybody knows what everybody else is doing
+
+GitMaster
+-Make sure everybody is commit-ing responsibly
+-make sure people are making pull requests
+-make sure people are reviewing pull requests
+
+Testmaster
+-Make sure tests are being written
+-YOU DO NOT WRITE ALL THE TESTS-- YOU JUST MAKE SURE THE COLLECTIVE TEAM IS WRITING TESTS.
+-one test per feature
+
+"Project Manager" (Fellow)
+-A simulation of "agile"
+-Lead standup every day
+    -disucss yesterday's roles, assign today's roles
+    -assign daily goal
+-Customize support for your specific team
